@@ -904,6 +904,13 @@ LittlerootTown_EventScript_GiveRunningShoes::
 	delay 30
 	return
 
+LittlerootTown_EventScript_NewRock::
+	lock
+	msgbox LittlerootTown_EventScript_NewRock_Text_0, MSGBOX_DEFAULT
+	closemessage
+	release
+	return
+
 LittlerootTown_Text_OurNewHomeLetsGoInside:
 	.string "MOM: {PLAYER}, we're here, honey!\p"
 	.string "It must be tiring riding with our things\n"
@@ -1014,3 +1021,5 @@ LittlerootTown_Text_BirchSomethingToShowYouAtLab:
 	.string "I have something to show you.\n"
 	.string "Let's go to my LAB.$"
 
+LittlerootTown_EventScript_NewRock_Text_0:
+	.string "There is a new rock by the trees.$"
