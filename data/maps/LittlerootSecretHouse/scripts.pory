@@ -1,1 +1,16 @@
 mapscripts LittlerootSecretHouse_MapScripts {}
+
+script LittlerootSecretHouse_PrototypeBattle {
+    lock
+    faceplayer
+    trainerbattle_single(TRAINER_AMBER_TESTING, PrototypeAmberBattleStart, PrototypeAmberBattleEnd)
+    release
+}
+
+text PrototypeAmberBattleStart {
+    format("Oh! Great timing!\pCome help me with battle testing for a sec!")
+}
+
+text PrototypeAmberBattleEnd {
+    format("Thanks a lot!")
+}
