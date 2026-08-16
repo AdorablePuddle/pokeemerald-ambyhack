@@ -152,7 +152,7 @@ void SetUpBattleVarsAndBirchZigzagoon(void)
     BattleAI_SetupFlags();
 
     if (!IS_FRLG && gBattleTypeFlags & BATTLE_TYPE_FIRST_BATTLE)
-        CreateWildMon(SPECIES_ARCEUS, 100);
+        CreateWildMon(SPECIES_ZIGZAGOON, 8);
 }
 
 void InitBattleControllers(void)

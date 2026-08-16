@@ -9323,6 +9323,26 @@
       "border_height": 2,
       "border_width": 2,
       "layout_version": "frlg"
+    },
+    {
+      "id": "LAYOUT_LITTLEROOT_SECRET_TOWN",
+      "name": "LittlerootSecretTown_Layout",
+      "width": 40,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/LittlerootSecretTown/border.bin",
+      "blockdata_filepath": "data/layouts/LittlerootSecretTown/map.bin"
+    },
+    {
+      "id": "LAYOUT_LITTLEROOT_SECRET_HOUSE",
+      "name": "LittlerootSecretHouse_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_Lab",
+      "border_filepath": "data/layouts/LittlerootSecretHouse/border.bin",
+      "blockdata_filepath": "data/layouts/LittlerootSecretHouse/map.bin"
     }
   ]
 }

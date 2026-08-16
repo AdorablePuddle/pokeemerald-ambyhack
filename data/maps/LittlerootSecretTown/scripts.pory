@@ -1,0 +1,12 @@
+mapscripts LittlerootSecretTown_MapScripts {}
+
+script LittlerootSecretTown_EventScript_Blockade {
+	lock
+    msgbox(format("Maybe I shouldn't go here without a pokemon..."))
+    closemessage()
+    applymovement(LOCALID_PLAYER, moves(
+        walk_left
+    ))
+    waitmovement(0)
+    release
+}
