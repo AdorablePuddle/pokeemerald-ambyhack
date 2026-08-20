@@ -8,7 +8,7 @@ LittlerootSecretHouse_PrototypeBattle::
 # 5 "data/maps/LittlerootSecretHouse/scripts.pory"
 	faceplayer
 # 6 "data/maps/LittlerootSecretHouse/scripts.pory"
-	trainerbattle_single TRAINER_AMBER_TESTING, PrototypeAmberBattleStart, PrototypeAmberBattleEnd
+	trainerbattle_single TRAINER_AMBY_TESTING, PrototypeAmberBattleStart, PrototypeAmberBattleEnd
 # 7 "data/maps/LittlerootSecretHouse/scripts.pory"
 	release
 	return

@@ -3,7 +3,7 @@ mapscripts LittlerootSecretHouse_MapScripts {}
 script LittlerootSecretHouse_PrototypeBattle {
     lock
     faceplayer
-    trainerbattle_single(TRAINER_AMBER_TESTING, PrototypeAmberBattleStart, PrototypeAmberBattleEnd)
+    trainerbattle_single(TRAINER_AMBY_TESTING, PrototypeAmberBattleStart, PrototypeAmberBattleEnd)
     release
 }
 

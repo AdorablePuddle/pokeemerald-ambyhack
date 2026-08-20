@@ -16878,73 +16878,74 @@ Kyogre
 Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-=== TRAINER_AMBER_TESTING ===
-Name: AMBER
+=== TRAINER_AMBY_TESTING ===
+Name: AMBY
 Class: RS Protag
 Pic: RS May
 Gender: Female
 Items: Full Restore / Full Restore / Full Restore / Full Restore
 Double Battle: No
-AI: Basic Trainer / Smart Trainer 
+AI: Smart Trainer
 
-Omastar (F) @ White Herb  
-Ability: Weak Armor  
-Level: 56  
-EVs: 4 HP / 252 SpA / 252 Spe  
-Modest Nature  
+Carbink @ Sitrus Berry  
+Ability: Sturdy  
+Level: 55  
+EVs: 252 HP / 252 SpD / 4 Spe  
+Calm Nature  
 IVs: 0 Atk  
-- Shell Smash  
-- Hydro Pump  
-- Ice Beam  
-- Earth Power  
+- Reflect  
+- Stealth Rock  
+- Spikes  
+- Misty Explosion  
 
-Volcarona (F) @ Charti Berry  
-Ability: Flame Body  
+Volcarona @ Focus Sash  
+Ability: Swarm  
 Level: 56  
 EVs: 252 SpA / 4 SpD / 252 Spe  
 Modest Nature  
 IVs: 0 Atk  
 - Quiver Dance  
-- Flamethrower  
 - Bug Buzz  
+- Flamethrower  
 - Giga Drain  
 
-Meowscarada (F) @ Choice Band  
+Meowscarada (F) @ Choice Scarf  
 Ability: Protean  
-Level: 57  
-EVs: 4 HP / 252 Atk / 252 Spe  
+Level: 56  
+EVs: 252 Atk / 4 SpD / 252 Spe  
 Jolly Nature  
-- Flower Trick  
 - Knock Off  
-- U-turn  
+- Flower Trick  
 - Triple Axel  
+- U-turn  
 
-Dragonite (F) @ Loaded Dice  
-Ability: Multiscale  
+Gholdengo @ Air Balloon  
+Ability: Good as Gold  
+Level: 57  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Nasty Plot  
+- Make It Rain  
+- Shadow Ball  
+- Dazzling Gleam  
+
+Garchomp (F) @ Loaded Dice  
+Ability: Rough Skin  
 Level: 57  
 EVs: 252 Atk / 4 SpD / 252 Spe  
-Adamant Nature  
-- Dragon Dance  
-- Scale Shot  
-- Fire Punch  
-- Earthquake  
-
-Aegislash (F) @ Air Balloon  
-Ability: Stance Change  
-Level: 57  
-EVs: 252 HP / 252 Atk / 4 SpD  
-Adamant Nature  
+Jolly Nature  
 - Swords Dance  
-- Close Combat  
-- Shadow Claw  
-- Shadow Sneak  
+- Earthquake  
+- Scale Shot  
+- Fire Fang  
 
 Diancie @ Diancite  
 Ability: Clear Body  
 Level: 58  
-EVs: 24 HP / 32 Atk / 220 SpA / 16 SpD / 216 Spe  
+EVs: 36 HP / 32 Atk / 220 SpA / 4 SpD / 216 Spe  
 Hasty Nature  
-- Mystical Fire  
 - Diamond Storm  
 - Moonblast  
 - Earth Power  
+- Mystical Fire  
