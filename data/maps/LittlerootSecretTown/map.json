@@ -43,25 +43,7 @@
     {
       "type": "trigger",
       "x": 10,
-      "y": 11,
-      "elevation": 0,
-      "var": "VAR_LITTLEROOT_TOWN_STATE",
-      "var_value": "0",
-      "script": "LittlerootSecretTown_EventScript_Blockade"
-    },
-    {
-      "type": "trigger",
-      "x": 10,
       "y": 10,
-      "elevation": 0,
-      "var": "VAR_LITTLEROOT_TOWN_STATE",
-      "var_value": "1",
-      "script": "LittlerootSecretTown_EventScript_Blockade"
-    },
-    {
-      "type": "trigger",
-      "x": 10,
-      "y": 11,
       "elevation": 0,
       "var": "VAR_LITTLEROOT_TOWN_STATE",
       "var_value": "1",
